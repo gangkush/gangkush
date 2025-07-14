@@ -41,5 +41,5 @@
 
 <!-- Tenor GIF -->
 <p align="left">
-  <img src="https://media1.tenor.com/m/DLJOlW_LjuUAAAAC/nifty-nifty-island.gif" height="150" alt="Nifty Island GIF" />
+  <img src="https://media1.tenor.com/m/DLJOlW_LjuUAAAAC/nifty-nifty-island.gif" height="200" alt="Nifty Island GIF" />
 </p>
