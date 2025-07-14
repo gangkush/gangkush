@@ -20,9 +20,9 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gangkush&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=gangkush&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gangkush&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gangkush&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=gangkush&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gangkush&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
 <!-- Spacer -->
